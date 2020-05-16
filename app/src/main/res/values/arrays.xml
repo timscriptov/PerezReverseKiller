@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="translate">
+        <item>Translatation</item>
+    </string-array>
+    <string-array name="translate_provider">
+        <item>Baidu Translation</item>
+        <item>Bing Translation</item>
+    </string-array>
+     <string-array name="language">
+        <item>Auto recognize</item>
+        <item>Chinese</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>French</item>
+        <item>Thai</item>
+        <item>Russian</item>
+        <item>Germany</item>
+        <item>Greek</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Arabic</item>
+    </string-array>
+    <string-array name="language_short">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>jp</item>
+        <item>kor</item>
+        <item>fra</item>
+        <item>th</item>
+        <item>ru</item>
+        <item>de</item>
+        <item>el</item>
+        <item>it</item>
+        <item>spa</item>
+        <item>pt</item>
+        <item>ara</item>
+    </string-array>
+
+<string-array name="dialog_menu">
+    <item>Open by default</item>
+    <item>Edit as text</item>
+    <item>Delete</item>
+    <item>Rename</item>
+    <item>Copy</item>
+    <item>Cut</item>
+    <item>Permission</item>
+</string-array>
+
+<string-array name="search_mod">
+    <item>Search for strings in code</item>
+    <item>Search for functions in code</item>
+    <item>Search for constants in code</item>
+</string-array>
+
+<string-array name="entries_font_size_prefs">
+    <item>8 pt</item>
+    <item>10 pt</item>
+    <item>12 pt</item>
+    <item>14 pt</item>
+    <item>16 pt</item>
+    <item>18 pt</item>
+    <item>20 pt</item>
+</string-array>
+
+<string-array name="values_font_size_prefs">
+    <item>8</item>
+    <item>10</item>
+    <item>12</item>
+    <item>14</item>
+    <item>16</item>
+    <item>18</item>
+    <item>20</item>
+</string-array>
+
+
+<string-array name="entries_font_type_prefs">
+    <item>Monospace</item>
+    <item>Serif</item>
+    <item>Sans Serif</item>
+</string-array>
+
+<string-array name="values_font_type_prefs">
+    <item>Monospace</item>
+    <item>Serif</item>
+    <item>Sans Serif</item>
+</string-array>
+</resources>

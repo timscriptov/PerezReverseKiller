@@ -1,0 +1,15 @@
+package com.perez.revkiller;
+
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+
+public class TextPreferences extends PreferenceActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        addPreferencesFromResource(R.xml.preferences);
+    }
+
+}
